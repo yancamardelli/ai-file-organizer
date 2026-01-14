@@ -1,0 +1,2 @@
+# Sem dependências externas, por enquanto.
+# Projeto roda só com Python por padrão.
