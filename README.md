@@ -43,8 +43,11 @@ O objetivo do projeto é demonstrar competências práticas em:
 
 ## 🖼️ Demonstração
 
-> 📸 Sugestão: adicionar prints da pasta antes e depois da execução  
-> (ex.: `assets/before.png` e `assets/after.png`)
+### Antes da execução
+![Pasta desorganizada](assets/before.png)
+
+### Depois da execução
+![Pasta organizada automaticamente](assets/after.png)
 
 ```text
 input/        → pasta com ficheiros desorganizados
