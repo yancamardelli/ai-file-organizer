@@ -44,10 +44,10 @@ O objetivo do projeto é demonstrar competências práticas em:
 ## 🖼️ Demonstração
 
 ### Antes da execução
-![Pasta desorganizada](assets/before.png)
+![Pasta desorganizada](https://github.com/yancamardelli/ai-file-organizer/blob/main/assets/before.jpeg?raw=true)
 
 ### Depois da execução
-![Pasta organizada automaticamente](assets/after.png)
+![Pasta organizada automaticamente](https://github.com/yancamardelli/ai-file-organizer/blob/main/assets/after.jpeg?raw=true)
 
 ```text
 input/        → pasta com ficheiros desorganizados
